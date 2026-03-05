@@ -26,5 +26,23 @@ Example:
 javac BuncoGame.java  
 java BuncoGame
 
+## How to Run the Program
+
+1. Clone the repository
+
+git clone https://github.com/GeorgeKhachaturov/buncogame.git
+
+2. Go to the project folder
+
+cd buncogame
+
+3. Compile the Java files
+
+javac *.java
+
+4. Run the program
+
+java BuncoGame
+
 ## Author
 George Khachaturov
